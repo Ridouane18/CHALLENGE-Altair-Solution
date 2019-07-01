@@ -7,3 +7,5 @@ prerequisite: node.js, npm, angular cli.
 3)Open leave-management folder in a terminal and type this command line "ng serve".
 4)open this link in a browser "http://localhost:4200".
 5)To sign In use this credentials: USERNAME: admin , PASSWORD: admin.
+
+PS: This is my first time creating an app using mean stack technologies , and i'm currently in an internship so I had been working on it only after work.
